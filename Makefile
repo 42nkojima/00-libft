@@ -6,7 +6,7 @@
 #    By: nkojima <nkojima@student.42tokyo.jp>       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/04/26 16:47:58 by nkojima           #+#    #+#              #
-#    Updated: 2025/05/30 21:03:08 by nkojima          ###   ########.fr        #
+#    Updated: 2025/10/15 22:59:11 by nkojima          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -36,11 +36,13 @@ SRC_FILES = isalpha \
 			tolower \
 			strchr \
 			strrchr \
+			strcmp \
 			strncmp \
 			memchr \
 			memcmp \
 			strnstr \
 			atoi \
+			atold \
 			calloc \
 			strdup \
 			substr \
